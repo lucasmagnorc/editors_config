@@ -1,0 +1,17 @@
+{
+    "auto_indent": true,
+    "color_scheme": "Monokai.sublime-color-scheme",
+    "font_size": 12,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        80,
+        120
+    ],
+    "tab_size": 4,
+    "theme": "Adaptive.sublime-theme",
+    "translate_tabs_to_spaces": true
+}
